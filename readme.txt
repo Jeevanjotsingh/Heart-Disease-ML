@@ -1,0 +1,1 @@
+"Developed a streamlined pipeline for heart disease prediction utilizing one-hot encoding and machine learning algorithms. Engineered an efficient process to preprocess data, employ one-hot encoding techniques, and execute accurate predictions for heart diseases."
